@@ -1,4 +1,4 @@
-name: pmodel-env-4
+name: pmodel-env
 channels:
   - defaults
 dependencies:
